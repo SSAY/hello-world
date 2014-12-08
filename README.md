@@ -1,7 +1,11 @@
 hello-world
 ===========
 
-Tutorial
+Training 
 
 This will be a long test session,
-But it is certainly worthwhile.
+But certainly worthwhile.
+
+
+Some moer changes here ... 
+123456
